@@ -1,7 +1,7 @@
 {
     "Name": "fribbles_fmri",
     "BIDSVersion": "1.0.2",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Gabriel Pelletier",
         "Nadav Aridan",
@@ -20,5 +20,5 @@
         "",
         ""
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "10.18112/openneuro.ds002994.v1.0.0"
 }
