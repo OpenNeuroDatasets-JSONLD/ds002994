@@ -1,7 +1,7 @@
 {
-    "Name": "fribbles_fmri",
+    "Name": "fribblesFMRI_object-value-construction",
     "BIDSVersion": "1.0.2",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Gabriel Pelletier",
         "Nadav Aridan",
